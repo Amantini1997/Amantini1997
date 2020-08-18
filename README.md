@@ -5,7 +5,7 @@
 >I am passionate in programming, and my favorite language at the time of writing is **Javascript** (although most of the times, due to the integration with Angular, I use **Typescript**), which in my case includes strong knowledge in **HTML** and **CSS** as well.<br>
 ><img src="https://www.beantech.it/wp-content/uploads/2019/11/htmlcss.jpg" alt="alt text" width="350">
 
->I am specialised in creating **websites** using both **VanillaJS** and **Angular**. Lately I have also started playing around with **PWA**, again using both VanillaJS and Angular, the latter backed by **Ionic**. <br>
+>I am specialised in creating **websites** using both **VanillaJS** and **Angular**. Lately I have also started playing around with **PWA**s, using, again, both VanillaJS and Angular, the latter backed by **Ionic**. <br>
 ><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="alt text" height="160"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="alt text" height="160"><img src="https://secure.meetupstatic.com/photos/event/d/a/3/7/600_477715863.jpeg" alt="alt text" height="160">
 
 ## My Prjects
