@@ -6,7 +6,7 @@
 ><img src="https://www.beantech.it/wp-content/uploads/2019/11/htmlcss.jpg" alt="alt text" width="350">
 
 >I am specialised in creating **websites** using both **VanillaJS** and **Angular**. Lately I have also started playing around with **PWA**, again using both VanillaJS and Angular, the latter backed by **Ionic**. <br>
-><img src="https://valledeicavalieri.it/wp/wp-content/uploads/2019/02/PWA.jpg" alt="alt text" width="350"><img src="https://miro.medium.com/max/900/1*uRroKId3vdIr8QxpScqYMA.png" alt="alt text" width="350">
+><img src="https://valledeicavalieri.it/wp/wp-content/uploads/2019/02/PWA.jpg" alt="alt text" width="200"><img src="https://miro.medium.com/max/900/1*uRroKId3vdIr8QxpScqYMA.png" alt="alt text" width="350">
 
 ## My Prjects
 > These are some my projects uploaded on GitHub:
