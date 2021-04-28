@@ -12,8 +12,6 @@ I am specialised in creating **websites** using both **VanillaJS** and **Angular
 <br>
 <br>
 
-[TOC]
-
 ## My Projects
  These are some my projects uploaded on GitHub:
  - this is [my CV](https://amantini1997.github.io/CV-PDFLike/);
@@ -37,7 +35,8 @@ I am specialised in creating **websites** using both **VanillaJS** and **Angular
 <br>
 <br>
 ### Backend
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="alt text" height="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/120px-IntelliJ_IDEA_Logo.svg.png" alt="alt text" height="80">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="alt text" height="80">
+<!--Intellij-->
 <br>
 <br>
 <br>
