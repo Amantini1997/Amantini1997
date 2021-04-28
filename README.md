@@ -36,7 +36,7 @@ I am specialised in creating **websites** using both **VanillaJS** and **Angular
 <br>
 ### Backend
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="alt text" height="80">
-<!--Intellij-->
+
 
 <br>
 <br>
@@ -45,5 +45,5 @@ I am specialised in creating **websites** using both **VanillaJS** and **Angular
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="alt text" height="80"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="alt text" height="80"> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/New_Mercurial_logo.svg/100px-New_Mercurial_logo.svg.png" alt="alt text" height="80"> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1200px-Adobe_Photoshop_Mobile_icon.svg.png" alt="alt text" height="80">
 
 
-
+<!--Intellij was in the Backend-->
 
