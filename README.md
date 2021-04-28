@@ -12,7 +12,9 @@ I am specialised in creating **websites** using both **VanillaJS** and **Angular
 <br>
 <br>
 
-## My Prjects
+[TOC]
+
+## My Projects
  These are some my projects uploaded on GitHub:
  - this is [my CV](https://amantini1997.github.io/CV-PDFLike/);
  - this is a [website](https://amantini1997.github.io/BassBuddy/) I made for a friend of mine;
