@@ -1,5 +1,5 @@
 # WELCOME TO MY PROFILE :)
-My name is **Alessandro Amantini** and I am a 3rd year CompSci student at [King's College London](https://www.kcl.ac.uk).<br>
+My name is **Alessandro Amantini** and I am [King's College London](https://www.kcl.ac.uk) alumni with a BSci in computer science.<br>
 [<img src="https://www.kcl.ac.uk/SiteElements/2017/images/fallback-1600x900.jpg" alt="alt text" width="300">](https://www.kcl.ac.uk)
 <br>
 <br>
